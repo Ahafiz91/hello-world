@@ -1,2 +1,5 @@
 # hello-world
-Basic of github
+
+I'm new to this Github.
+
+Trying to understand all the workflow. Peace yaww!!
